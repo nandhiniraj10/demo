@@ -2,3 +2,333 @@ welcome to git,
     Git is a widely used distributed version control and source code management system. It effectively tracks changes to source code, enabling effortless branching, merging, and versioning.
 
 This Git tutorial is designed for beginners and professionals. It covers a range of topics, from fundamental to advanced concepts of Git and GitHub. The tutorial includes instructions on downloading and installing Git, creating new repositories, utilizing Git Bash, managing Git stash, downloading Git, executing Git commands, working with Git branches, etc
+What is Git?
+Git is a distributed version control system (DVCS) that allows developers to track changes in their codebase, collaborate with others, and manage different versions of their projects efficiently
+
+Git was developed by Linus Torvalds in 2005 for Linux kernel development.
+Git is 2.45.1 is the Lastest Verions of GIT, released on May 2024.
+Why Use Git?
+Version Control: Git helps in tracking changes, allowing you to revert to previous states if something goes wrong.
+Collaboration: It enables multiple developers to work on a project simultaneously without interfering with each other’s work.
+Backup: Your entire project history is saved in a Git repository, providing a backup of all versions.
+Branching and Merging: Git’s branching model allows you to experiment with new features or bug fixes independently from the main project.
+Open Source Projects: Most open source projects use Git for version control. Learning Git allows you to contribute to these projects.
+Industry Standard: Git is widely used in the software industry, making it an essential skill for developers.
+Working with Git
+Initializing a Repository: When you initialize a folder with Git, it becomes a repository. Git logs all changes made to a hidden folder within that repository.
+Staging Changes: Git marks modified files as “staged.” Staging prepares changes for a snapshot you want to keep.
+Committing Changes: Once staged changes are satisfactory, commit them. Git maintains a complete record of each commit.
+What is Github?
+GitHub, a hosting service for Git repositories, allows you to access and download projects from any computer. Here’s what you can do with GitHub:
+
+Store Repositories: GitHub hosts your repositories.
+Collaborate: Work with other developers from any location.
+Version Control: Manage collaborative workflows using Git and GitHub.
+Introduction to Git
+Version Control System
+Introduction and Installation of Git
+History of Git
+Git Features
+Introduction to GitHub
+Git Repository
+Git Features
+Bare Repositories in Git
+Git Ignore
+Readme.md File
+GitHub Readme File
+GitHub Labels
+Difference between CVS and GitHub
+Git Basics
+Git – SubGit
+Git Environment Setup
+Using Git on CLI
+How to Setup a Repository
+Working with Git Repositories
+Using GitHub with SSH
+Working on Git with GUI
+Difference Between Git and GitHub
+Working on Git Bash
+States of a File in Git Working Directory
+Use of Submodules in GitHub
+How to Write Good Commit Messages on GitHub?
+Deleting a Local GitHub Repository
+Git Workflow Etiquettes
+Git Packfiles
+Git Garbage Collection
+Git Flow vs GitHub Flow
+Git – Difference Between HEAD, Working Tree and Index
+Git Ignore
+Git Installation
+How to Install Git on Ubuntu
+How to Use Git in Ubuntu
+How to Setup Git Server on Ubuntu?
+How to Add GIT Credentials in MacOS?
+How to add GIT credentials on Windows?
+How to add GIT credentials on Linux?
+How to Setup Git on Anypoint Studio?
+How to Install Git With Spyder
+How to Install Git on VMWare
+How to Install GIT in Conda?
+How to Install GIT on GoDaddy Server on Linux?
+How to Install Git on Windows Using Chocolatey?
+How to install GIT by NPM Packages?
+How to Install Git on Cygwin?
+How to Install Git Large File Storage on Linux?
+How to Install Sourcetree for GIT on Windows?
+How to Install Sourcetree for GIT in MacOs?
+How to Install Git on Raspberry Pi?
+How to Install Git on Termux?
+How to Set Up Git Using Git Config?
+Git Commands
+Useful Git Commands and Basic Concepts
+Basic Git Commands with Examples
+Essential Git Commands
+Top 12 Most Used Git Commands For Developers
+Save a File in Git
+Difference between “add -A”, “add -u”, “add .”, and “add *”
+Difference between “git add -A” and “git add”
+Debugging in a Git
+How to Add Code on GitHub Repository?
+Pushing Changes to Git Repository
+Examining Git
+Git Checkout and Merge
+Overturning Changes in Git
+Git Submodules
+Git Head
+Git Clean
+Git Rename
+Git Fork
+Git Init
+Git Add
+Git Commit
+Git Commit
+Git Origin Master
+How to Set Upstream Branch on Git?
+Git Push
+Git Pull
+Git Pull and Fetch
+Git Merge
+Git Stash
+Git Remote
+Git Patch
+Git Patch Operations
+Git Rebase
+Git Clone
+Git Alias
+Git Ref and Reflog
+Git Undo Commit
+Git Undo
+Git Stage
+Git Squash
+Git Move Files
+Git diff
+Git Status
+Git Blame
+Git Index
+Git Prune
+Git Checkout and Merge
+Git Merge and Merge Conflicts
+Recovering Lost Commits in Git
+Git Tags
+Git Hooks
+Git Subtree
+Git – Filtering the Commit History
+Git – Cherry Pick
+Git – git-show Command Line Utility
+Git – Working Tree
+Git Logs
+Git – Changing History
+Shallow Clone on Git Linux
+Sync your fork with a master in GitHub
+Error Searching and Handling in Git
+Delete a Git Branch Locally and Remotely
+How to Push Git Branch to Remote?
+How to Add an Empty Directory to a Git Repository?
+Difference Between Git Push Origin and Git Push Origin Master
+Difference Between Git remote prune, Git prune,on and Git fetch –prune
+Git – Difference Between Merging and Rebasing
+How to Use Git Log to Format the Commit History?
+How to Remove Local Untracked Files From Current Git Working Tree?
+Git and GitHub
+Create a Repository on GitHub
+Introduction to Git Branch
+How to Add Code of Conduct to Your Project on GitHub?
+Difference Between Fork and Clone in GitHub
+How to Add Audio Files on README .md File in a GitHub Repository From the Local System?
+How to Add Videos on README .md File in a GitHub Repository?
+How to Upload a Project on GitHub
+How to Export a Git Project?
+How to Push a Project and Contribute on GitHub?
+How to Push Anything to GitHub using Git Bash?
+How to Push Folders From a Local PC to GitHub using Git Commands?
+How to Add Images on README .md File in a GitHub Repository From the Local System?
+How to Transfer Local Repository to GitHub Organization?
+How to Generate Personal Access Token in GitHub?
+How to Add GIFs on README .md File in a GitHub Repository?
+How to Change the Visibility of the GitHub Repository?
+Issues in GitHub
+Git – How to Solve “remote: Invalid username or password. fatal: Authentication failed”
+Git – A lock file already exists in the repository, which blocks this operation from completing
+Common Git Problems and Their Fixes
+How to add a README to your GitHub profile?
+How to Upload a Project through GitHub Desktop on GitHub
+How to configure an OAuth App from GitHub?
+How to move the most recent commit(s) to a new branch with Git
+How to Use GIT with R and RStudio?
+How to Use Git with Eclipse?
+Git–Pack Objects
+Git and GitHub in VS Code
+How to Add GIT Credentials in VSCode?
+How to Clone a Project From GitHub using VSCode?
+How to Open a GitHub Repository in VS Code Online?
+How to Integrate Git Bash with VS Code
+Creating a Pull Request on any Public Repository from GitHub using VS Code
+How to Install GitHub Copilot on VSCode?
+Git and GitHub in Android Studio
+How to Upload Project on GitHub from Android Studio
+How to Clone Android Project from GitHub in Android Studio?
+How to use Git Commands in Android Studio Terminal
+How to Create a New Branch on GitHub using Android Studio?
+How to Create a Pull Request on GitHub using Android Studio?
+Git and GitHub in Pycharm
+How to Create a New Branch on Github using Pycharm?
+Create a Pull Request on GitHub using Pycharm
+How to Upload a Project on GitHub from Pycharm?
+How to Push Code to GitHub using Pycharm?
+Git and GitHub Deployment
+How to deploy the Node.js app on Heroku from GitHub?
+Deployment of React Application using GitHub Pages
+How to Publish a Static Website on GitHub
+Host a free Static Website using GitHub
+Publish Websites on GitHub Pages with a Custom Domain
+How to Deploy a Basic Static HTML Website to Heroku using Git?
+How to Deploy Angular Application to Firebase using GitHub?
+How to Add Custom Domain To GitHub Pages?
+How to Deploy a Django Application to Heroku with Git CLI?
+How to create a cv using HTML and host it in GitHub?
+Deployment of Angular Application using Github Pages
+How to Build Portfolio Website And Host It on GitHub Pages?
+Git Collaborating
+What is Git Collaboration
+What are GitHub Collaborators
+GitHub Discussion
+Forking Workflow in Open Source Ecosystem
+How to Clone Github Repository and Push Changes in Colaboratory?
+How to make your first Open Source Pull Request
+How to setup Gitlab Repository in Windows 10
+Merge Strategies in Git
+How to Handle Merge Conflicts
+GitHub App to Add or Remove Labels to Issues
+How to Create Pull Request on GitHub without Using any IDE?
+How to Clone Web Project from GitHub in Pycharm using Git?
+How to Clone a project from GitHub using Eclipse?
+How to Export Eclipse Projects to GitHub?
+Creating New Branch on Github without using any IDE
+How to Upload Project on GitHub from Jupyter Notebook?
+Git Advanced
+How to Handle Big Repositories with Git?
+How to Protect Your Private Email Addresses in Git & Github?
+How to send an Email using Git send-email via Gmail?
+Dynamic Quote Generator for GitHub Readme
+Automating some git commands with Python
+How to Install and Use Git in Google Colab?
+Downloading gists from Github made simple
+Introduction to Bitbucket
+Difference between Bitbucket and GitHub
+Using Bitbucket as an extension to GitHub Capabilities
+Working on Bitbucket using Git
+Introduction to Mercurial
+Difference between MERCURIAL and GIT
+How to Make a GitHub Bot
+Jenkins and GIT Integration using SSH Key
+GitHub App to Build Form using Typeform and Probot
+How to Trigger WebHooks without Events – Probot Github App
+Difference between Gitlab and GitHub
+Difference between Git and SVN
+Link your GitHub Account with R Studio
+Continuous Integration and Continuous Development(CI/CD)
+How to Add GIT Credentials in Jenkins?
+Implementation of CI/CD in .NET application Using Shell Executor on GitLab
+Implementation of CI/CD in Java application(Linux) Using Shell and Docker Executor on GitLab
+Implementation of CI/CD in C/C++ Application(Linux) Using Shell and Docker Executor on GitLab
+How to Publish Docker Image to Dockerhub Using Github Actions?
+Installing Private Git Server on K8s Cluster with Gitea and AKS
+Flutter – Building and Releasing APK using GitHub Actions
+How to Upload Android APK to Testers Group in Firebase Using GitHub Actions?
+Basic CI Workflow For Android using GitHub Actions
+GitHub Actions For Android
+Internal Working of Git
+Git uses a decentralized model where each developer has their own copy of the repository and works immediately on the project. Git manages the projects with repositories and can clone a project to operate locally on it.
+
+With staging and committing it track changes and control. You can pull the latest code of the project to the local copy, and push local updates to the main projects.
+
+Difference between Git and GitHub
+Aspect	Git	GitHub
+Definition	Distributed version control system	Web-based Git repository hosting service
+Purpose	Track changes in source code	Centralized source code hosting
+Installation	Command-line tool (local)	Hosted on the web
+Maintenance	Maintained by the Linux community	Maintained by Microsoft
+Focus	Version control and code sharing	Centralized source code hosting
+History	First released in 2005	Launched in 2008
+User Management	Lacks built-in user management	Includes built-in user management features
+Licensing	Open-source	Free-tier and pay-for-use tiers
+Tool Integration	Minimal external tool configuration	Active marketplace for tool integration
+Desktop Interface	Provides Git Gui	Provides GitHub Desktop
+Competition	Competes with CVS, Subversion, etc.	Competes with GitLab, Bit Bucket, etc.
+Git and GitHub – FAQs
+What is GitHub?
+Git and GitHub are not the same, GitHub makes tools that use Git. GitHub is the popular host of code and maintained by Microsoft since 2018.
+
+Why Should I Use Git?
+Git is a useful tool that helps to manage changes in code or any documents, It generally allows collaboration between developers and writers and enables them easy version control.
+
+Can Git be used for non-code files?
+Yes, Git can be used to manage changes happening in any text-based files, documents, configuration files, and even images. However, Git may not be the best tool for managing large binary files.
+
+How do I resolve conflicts in Git?
+When changes areStart done in the same file by different developers then conflict occurred. To solve this, you need to first identify the lines of code which is conflicting then make the necessary changes, and commit the changes to the repository.
+
+
+Three 90 Challenge is back on popular demand! After processing refunds worth INR 1CR+, we are back with the offer if you missed it the first time. Get 90% course fee refund in 90 days. Avail now!
+Want to be a Software Developer or a Working Professional looking to enhance your Software Development Skills? Then, master the concepts of Full-Stack Development. Our Full Stack Development - React and Node.js Course will help you achieve this quickly. Learn everything from Front-End to Back-End Development with hands-on Projects and real-world examples. This course enables you to build scalable, efficient, dynamic web applications that stand out. Ready to become an expert in Full-Stack? Enroll Now and Start Creating the Future!
+
+
+https://media.geeksforgeeks.org/auth/avatar.png
+GeeksforGeeks
+News
+
+56
+Next Article
+Git Introduction
+Read More
+Down Arrow
+Similar Reads
+Difference Between Git remote prune, Git prune and Git fetch --prune
+Git is a version control system that helps developers manage and track changes in their codebase. Among its many commands, git remote prune, git prune, and git fetch --prune are essential for maintaining a clean and organized repository. This article will explain the differences between these commands, their syntax, uses, and provide examples to il
+4 min read
+Git - git-show Command Line Utility
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git relies on the basis of distributed development of software where more than one developer may have access to the source code of a specific application and can modify changes to it that may be
+3 min read
+Git LFS: Managing Large Files in Git Repositories
+Git, undoubtedly one of the most popular version control systems, is widely used for managing source code in software development projects. However, one of its limitations is its handling of large files. Traditional Git repositories struggle to efficiently manage large files, leading to bloated repositories and slow performance. This is where Git L
+4 min read
+Git Subtree vs. Git Submodule
+Git Subtree and Git Submodule are both mechanisms in Git that allow you to incorporate external repositories into your own repository. They provide a way to manage dependencies and include code from other projects while keeping your repository organized and maintainable. Git Subtree: Git Subtree allows you to insert a separate repository as a subdi
+4 min read
+Difference Between Git Fetch and Git Pull
+Understanding the difference between git fetch and git pull is important for effective version control in Git. These commands are important for managing your repository and collaborating with team members. In this article, Let us look at Git Fetch and Git Pull separately with the help of an example. What is Git Fetch?The Git Fetch command is used t
+4 min read
+Difference Between Git Push Origin and Git Push Origin Master
+Understanding the difference between git push origin and git push origin master is important for efficient version control in Git. These commands are used to upload changes from your local repository to a remote repository, but they function differently. This article will explain these differences, how each command works, and when to use them. What
+3 min read
+How to Set Up Git Using Git Config?
+Git is a powerful version control system that helps developers manage and track changes in their code. Setting up Git correctly is important for maintaining an organized and efficient workflow. In this article, we'll walk you through the process of setting up Git using the git config command. PrerequisitesBefore we dive into the setup process, make
+3 min read
+How To Exit Git Log or Git Diff?
+When working with Git, the git log and git diff commands are important for viewing commit history and changes between commits, respectively. However, if you're new to Git, you might find yourself stuck in these views, unsure how to exit. This article will guide you through the steps to exit git log or git diff, ensuring a smooth experience while na
+2 min read
+Git - git prune
+Git is a powerful version control system that helps developers manage their code efficiently. However, as your project evolves, you may accumulate unnecessary data that clutters your repository. This is where git prune comes in view. What is git prune?git prune is a Git command that removes objects that are no longer referenced by any branch or tag
+5 min read
+Difference between “git add -A” and “git add”
+When working with Git, the git add command is used to move changes from your working directory to the staging area. However, there are different
