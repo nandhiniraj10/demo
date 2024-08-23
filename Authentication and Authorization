@@ -1,0 +1,15 @@
+Understanding Authentication and Authorization
+
+Authentication and authorization are fundamental concepts in information security, often used interchangeably due to their similar contexts. However, they serve distinct roles in the security process.
+
+Authentication: Verifying Identity
+
+Authentication is the process of verifying a user's identity to ensure they are who they claim to be. This is typically the first step in the security process and is crucial for establishing a secure environment. Authentication mechanisms often require users to provide credentials, such as a username and password, which are then compared against a database of authorized users. If the credentials match, the user is granted access.
+
+Methods of Authentication:
+
+Single-Factor Authentication: Involves one layer of security, usually a password.
+
+Two-Factor Authentication (2FA): Adds an additional layer, such as a code sent to a user's phone.
+
+Multi-Factor Authentication (MFA): Incorporates two or more layers, including something the user knows (password), something the user has (security token), and something the user is (biometric verification).
