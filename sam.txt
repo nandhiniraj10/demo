@@ -1,0 +1,4 @@
+welcome to git,
+    Git is a widely used distributed version control and source code management system. It effectively tracks changes to source code, enabling effortless branching, merging, and versioning.
+
+This Git tutorial is designed for beginners and professionals. It covers a range of topics, from fundamental to advanced concepts of Git and GitHub. The tutorial includes instructions on downloading and installing Git, creating new repositories, utilizing Git Bash, managing Git stash, downloading Git, executing Git commands, working with Git branches, etc
